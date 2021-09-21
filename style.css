@@ -17,6 +17,7 @@ body {
 .bodytext {
     font-family: Helvetica, sans-serif;
     font-weight: 100;
+    margin-bottom: 30px;
 }
 
 .navbar {
@@ -59,7 +60,7 @@ body {
     display: inline-block;
 }
 
-.col img {
+.col-md-4 img {
     width: 100%;
     padding-left: 10px;
     padding-right: 10px;
