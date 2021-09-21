@@ -14,6 +14,11 @@ body {
     font-weight: bold;
 }
 
+.bodytext {
+    font-family: Helvetica, sans-serif;
+    font-weight: 100;
+}
+
 .navbar {
     font-family: Montserrat;
 }
@@ -46,7 +51,7 @@ body {
 .center_text {
    width: 100%;
    text-align: center;
-   padding-top: 25%;
+   padding-top: 20%;
   }
 
 .col {
